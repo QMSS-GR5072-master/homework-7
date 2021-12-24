@@ -1,4 +1,4 @@
-# homework 6 - string operations and APIs
+# homework 7 - webscraping
 
 ## Instructions
 
