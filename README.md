@@ -14,7 +14,7 @@
 
 ### Assignment items `[100 pts]`
 
-Use the the `rvest` package and the `Webscraping.R` script to scrape content from this [website](https://en.wikipedia.org/wiki/2019_NCAA_Division_I_Men%27s_Basketball_Tournament) and answer the following questions:
+Use the the [`rvest`](https://rvest.tidyverse.org) package and the `Webscraping.R` script to scrape content from this [website](https://en.wikipedia.org/wiki/2019_NCAA_Division_I_Men%27s_Basketball_Tournament) and answer the following questions:
 
 1. [`20 pts`] The text in the first header of the page
 
